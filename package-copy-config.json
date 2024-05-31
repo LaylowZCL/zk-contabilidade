@@ -1,0 +1,22 @@
+{
+    "packagesToCopy": [
+        "apexcharts",
+        "bootstrap",
+        "card",
+        "choices.js",
+        "cleave.js",
+        "dropzone",
+        "feather-icons",
+        "flatpickr",
+        "jsvectormap",
+        "list.js",
+        "moment",
+        "node-waves",
+        "prismjs",
+        "simplebar",
+        "sortablejs",
+        "sweetalert2",
+        "swiper",
+        "toastify-js"
+    ]
+}
